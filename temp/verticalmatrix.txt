@@ -1,0 +1,10 @@
+name:Sarpanch
+weight:700
+win_a:940
+win_d:290
+typo_a:940
+typo_d:-290
+hhea_a:940
+hhea_d:-290
+hhea_l:90
+typo_l:90
